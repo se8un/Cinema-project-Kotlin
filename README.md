@@ -1,1 +1,1 @@
-# cinema_project_on_kotlin
+# cinema project on kotlin
